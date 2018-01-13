@@ -1,4 +1,6 @@
-# tree_data
+# Data 
+
+ Clone this repository ==> git clone https://github.com/maclandrol/tree_data.git  
 
 ### Quest For orthologs 
 - https://questfororthologs.org/standards 
